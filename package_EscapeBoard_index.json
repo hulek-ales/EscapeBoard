@@ -3,11 +3,8 @@
     {
       "name": "EscapeBoard",
       "maintainer": "Query",
-      "websiteURL": "",
-      "email": "",
-      "help": {
-        "online": ""
-      },
+      "websiteURL": "https://github.com/hulek-ales/EscapeBoard",
+      "email": "hulek.ales@gmail.com",
       "platforms": [
         {
           "name": "EscapeBoard",
@@ -24,7 +21,7 @@
             }
           ],
           "toolsDependencies": []
-        },
+        }
       ],
       "tools": []
     }
