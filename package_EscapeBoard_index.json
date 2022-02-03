@@ -1,19 +1,17 @@
 {
-  "packages": 
-  [
+  "packages": [
     {
       "name": "EscapeBoard",
       "maintainer": "Query",
       "websiteURL": "https://github.com/hulek-ales/EscapeBoard",
       "email": "hulek.ales@gmail.com",
-      "platforms": 
-      [
+      "platforms": [
         {
           "name": "EscapeBoard",
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/hulek-ales/EscapeBoard/blob/main/EscapeBoard.zip",
+          "url": "https://raw.githubusercontent.com/hulek-ales/EscapeBoard/main/EscapeBoard.zip",
           "archiveFileName": "EscapeBoard.zip",
           "checksum": "SHA-256:0083cf2a2733c0314c7dc9654e3d478a905ede25aa7e9c2c892882c5aca9811d",
           "size": "690426",
