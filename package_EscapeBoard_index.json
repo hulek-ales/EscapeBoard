@@ -1,0 +1,32 @@
+{
+  "packages": [
+    {
+      "name": "EscapeBoard",
+      "maintainer": "Query",
+      "websiteURL": "",
+      "email": "",
+      "help": {
+        "online": ""
+      },
+      "platforms": [
+        {
+          "name": "EscapeBoard",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "",
+          "archiveFileName": "",
+          "checksum": "",
+          "size": "",
+          "boards": [
+            {
+              "name": "EscapeBoard"
+            }
+          ],
+          "toolsDependencies": []
+        },
+      ],
+      "tools": []
+    }
+  ]
+}
