@@ -1,11 +1,13 @@
 {
-  "packages": [
+  "packages": 
+  [
     {
       "name": "EscapeBoard",
       "maintainer": "Query",
       "websiteURL": "https://github.com/hulek-ales/EscapeBoard",
       "email": "hulek.ales@gmail.com",
-      "platforms": [
+      "platforms": 
+      [
         {
           "name": "EscapeBoard",
           "architecture": "avr",
