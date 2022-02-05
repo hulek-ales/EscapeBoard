@@ -12,12 +12,12 @@
         {
           "name": "EscapeBoard",
           "architecture": "avr",
-          "version": "0.0.1",
+          "version": "0.0.2",
           "category": "Contributed",
-          "url": "https://raw.githubusercontent.com/hulek-ales/EscapeBoard/main/EscapeBoard_0-0-1.zip",
-          "archiveFileName": "EscapeBoard_0-0-1.zip",
-          "checksum": "SHA-256:520ebc56bac6833cd67f41b9eb653e156e6b33745bf6e8477e06f6b3552ed879",
-          "size": "992942",
+          "url": "https://raw.githubusercontent.com/hulek-ales/EscapeBoard/main/EscapeBoard_0-0-2.zip",
+          "archiveFileName": "EscapeBoard_0-0-2.zip",
+          "checksum": "SHA-256:14200B63C11E530EDB02DB9B8E3726417BC8E2CE790CF2F5158E9F42A84AF437",
+          "size": "980405",
           "boards": [
             {
               "name": "EscapeBoard"
